@@ -1,6 +1,6 @@
 - 👋 Hi, I’m priyanshu
-- 👀 I’m interested in Web Development and Programming in java.
-- 🌱 I’m currently learning Spring and angular
+- 👀 I’m interested in Web Development and Programming in Java.
+- 🌱 I’m currently learning Spring.
 - 📫 To reach me mail at priyanshu4399@gmail.com
 
 <!---
