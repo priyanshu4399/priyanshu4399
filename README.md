@@ -1,6 +1,6 @@
 - 👋 Hi, I’m priyanshu
-- 👀 I’m interested in Web Development and Programming in Java.
-- 🌱 I’m currently learning new technologies.
+- 👀 I’m interested in Java Full Stack Development .
+- 🌱 I’m currently learning new technologies in Java Full Stack.
 - 📫 To reach me mail at priyanshu4399@gmail.com
 
 <!---
